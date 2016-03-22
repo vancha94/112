@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace graphAirplain
 {
-    class PlotGraph
+    class UserData
     {
+        public DateTime time;
+        public double x;
     }
 }
